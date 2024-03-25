@@ -1,2 +1,2 @@
-# Demo Game
+# Demo game
 Computer game development project (university subject).
